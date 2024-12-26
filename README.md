@@ -36,3 +36,7 @@ python3.10 dividend_polygon.py
 ```bash
 python3.10 analyze_dividend.py
 ```
+
+# Alternative
+
+Download the data from github release.
